@@ -22,7 +22,7 @@
 
 @media screen and (max-width: 800px) {
   .balance {
-    width: 95%;
+    width: 98%;
   }
 }
 
@@ -59,7 +59,7 @@
 @media screen and (max-width: 800px) {
   .transaction,
   .alltransactions {
-    width: 95%;
+    width: 98%;
   }
 }
 
@@ -109,12 +109,6 @@ button {
   cursor: pointer;
   color: #fff;
 }
-
-/* .singletrans {
-  background: #faf9f9;
-  margin-bottom: 2px;
-  padding: 10px;
-} */
 
 .none {
   border: none;
